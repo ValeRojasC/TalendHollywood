@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_3N0zECndEe-Ub-DikhCDkg" name="highest2" dataPackage="_3N0zESndEe-Ub-DikhCDkg" Server="Localhost 127.0.0.1" FilePath="C:/datawarehouse/DM_MOVIES/HighestGrossers2.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_3N0zESndEe-Ub-DikhCDkg" name="default" dataManager="_3N0zECndEe-Ub-DikhCDkg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_3N0zEindEe-Ub-DikhCDkg" id="_zpyEkCndEe-Ub-DikhCDkg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zEyndEe-Ub-DikhCDkg" label="YEAR" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zFCndEe-Ub-DikhCDkg" label="MOVIE" length="45" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zFSndEe-Ub-DikhCDkg" label="GENRE" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zFindEe-Ub-DikhCDkg" label="MPAA_RATING" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zFyndEe-Ub-DikhCDkg" label="DISTRIBUTOR" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zGCndEe-Ub-DikhCDkg" label="TOTAL_FOR_YEAR" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zGSndEe-Ub-DikhCDkg" label="TOTAL_IN_2019_DOLLARS" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3N0zGindEe-Ub-DikhCDkg" label="TICKETS_SOLD" length="8" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

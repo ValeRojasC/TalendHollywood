@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_2hyr4CWdEe-vsp-mATEecw" name="AnnualTicket" dataPackage="_2hyr4SWdEe-vsp-mATEecw" Server="Localhost 127.0.0.1" FilePath="C:/datawarehouse/DM_MOVIES/AnnualTicketSales.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_2hyr4SWdEe-vsp-mATEecw" name="default" dataManager="_2hyr4CWdEe-vsp-mATEecw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_2hyr4iWdEe-vsp-mATEecw" id="_unS6gCWdEe-vsp-mATEecw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2hyr4yWdEe-vsp-mATEecw" label="YEAR" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2hyr5CWdEe-vsp-mATEecw" label="TICKETS_SOLD" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2hyr5SWdEe-vsp-mATEecw" label="TOTAL_BOX_OFFICE" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2hyr5iWdEe-vsp-mATEecw" label="TOTAL_INFLATION_ADJUSTED_BOX_OFFICE" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2hyr5yWdEe-vsp-mATEecw" label="AVERAGE_TICKET_PRICE" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,205 @@
+[ {
+  "baseItem" : {
+    "id" : "_8TXGACjLEe-l8Ly458Yw-w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_aBDBwCnbEe-Ub-DikhCDkg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_CLASIFICACION",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_GENERO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_PELICULA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_PRODUCTORA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_TIEMPO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_aBDBwCnbEe-Ub-DikhCDkg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ORATMCWeEe-vsp-mATEecw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2hxdwCWdEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_3N0MACndEe-Ub-DikhCDkg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2hxdwCWdEe-vsp-mATEecw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_3N0MACndEe-Ub-DikhCDkg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw - PELICULAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_UyjhkChEEe-ROoDbAeZfWw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw - PELICULAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_W-nwgChEEe-ROoDbAeZfWw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw - PELICULAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Y7z18ChEEe-ROoDbAeZfWw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw - PELICULAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_br_ekChEEe-ROoDbAeZfWw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw - PELICULAS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fJJh8ChEEe-ROoDbAeZfWw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_IMu_0ChgEe-MZZb37_StvA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_CLASIFICACION",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_PELICULA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_PRODUCTORA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw - DIM_TIEMPO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw - STAGE_INGRESO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_IMu_0ChgEe-MZZb37_StvA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yAeUoChBEe-ROoDbAeZfWw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2Pdp8CWWEe-vsp-mATEecw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FG950ChBEe-ROoDbAeZfWw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
